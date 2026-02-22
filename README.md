@@ -34,8 +34,8 @@ curl -fsSL https://raw.githubusercontent.com/SamirAlRashid/SonarQube-Deploy/main
 ## Manual Installation
 
 ```bash
-git clone https://github.com/twfksh/sonarqube-deploy.git
-cd sonarqube-deploy
+git clone https://github.com/SamirAlRashid/SonarQube-Deploy.git
+cd SonarQube-Deploy
 sudo ./setup.sh [version]
 ```
 
